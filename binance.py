@@ -2,7 +2,6 @@ import dotenv
 import os
 import requests as request
 import hmac
-import yaml
 import time
 import json
 from datetime import datetime
